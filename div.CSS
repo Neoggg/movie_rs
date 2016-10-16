@@ -1,0 +1,236 @@
+body
+{
+	background-color:rgba(13, 12, 12, 0.88);
+
+	
+}
+.div0
+{
+	width:960px;
+	height:900px; 
+	background-image: url("pp5.png");
+	background-position:center center;
+	background-size:960px 900px;
+	background-repeat:no-repeat;
+    margin: 0px auto;
+}
+.log
+{
+  width: 700px;
+  
+  background-color:#FFF;
+  overflow:auto;
+  margin: 0px auto;
+  position: relative;
+  top: 120px;
+}
+.log2
+{
+	width: 700px;
+
+  background-color:#FFF;
+  overflow:auto;
+  margin: 0px auto;
+  position: relative;
+  top: 120px;
+}
+.div1
+{
+  width: 700px;
+   height: 60px;
+  background-color:#FFF;
+  overflow:auto;
+  margin: 0px auto;
+  position: relative;
+  top: 120px;
+}
+.div2
+{
+  width: 700px;
+  height: 670px; 
+  margin: 0px auto;
+  overflow:auto;
+  position: relative;
+  top: 110px;
+}
+.div3
+{
+width: 700px;
+  margin: 0px auto;
+   text-align: right;
+   position: relative;
+   top: 80px;
+  
+}
+.rs1
+{
+  overflow:auto;
+  padding: 70px 19px;
+  float: left;
+  width: 222px;
+  height: 210px; 
+  position: relative;
+  background-image: url("rs1.png");
+  background-size:250px 350px;
+  background-repeat:no-repeat;
+  text-align:left;
+  top:200px;
+  left: 85px;
+  right: 50px;
+  font-weight:bold;
+}
+.rs2
+{
+  overflow:auto;
+  padding: 70px 19px;
+  float: left;
+  width: 222px;
+  height: 210px; 
+  position: relative;
+  background-image: url("rs2.png");
+  background-size:250px 350px;
+  background-repeat:no-repeat;
+  text-align:left;
+
+  top:200px;
+  left: 85px;
+  right: 50px;
+  font-weight:bold;
+}
+.rs3
+{
+  overflow:auto;
+  padding: 70px 19px;
+  float: left;
+  width: 222px; 
+  height: 210px; 
+  position: relative;
+  background-image: url("rs3.png");
+  background-size:250px 350px;
+  background-repeat:no-repeat;
+  text-align:left;
+  top:200px;
+  left: 85px;
+  right: 50px;
+  font-weight:bold;
+}
+.rstop
+{
+  width: 700px;
+   height: 60px;
+  background-color:#FFF;
+  overflow:auto;
+  margin: 0px auto;
+  position: relative;
+  top: 180px;
+}
+.star1
+{
+  width: 250px;
+  height: 30px;
+  margin: 0px auto;
+  overflow: auto;
+  position: relative;
+  top: 200px;
+  left: 150;
+  float: left;
+}
+.star2
+{
+   width: 250px;
+  height: 50px;
+  margin: 0px auto;
+  overflow: auto;
+  position: relative;
+  top: 200px;
+  float: left;
+  left: 160px;
+}
+.star3
+{
+  width: 250px;
+  height: 50px;
+  margin: 0px auto;
+  overflow: auto;
+  position: relative;
+  top: 200px;
+  float: left;
+  left: 160px;
+}
+.ra
+{
+  width: 200px;
+  padding: 8px 101px;
+  height: 200px;
+  position: absolute;
+  background-image: url("ran.png");
+  background-size: 180px 186px;
+  background-repeat: no-repeat;
+  text-align: left;
+  top: 700px;
+  left: 1200;
+  right: 50px;
+  
+}
+
+.staed
+{
+width: 700px;
+  margin: 0px auto;
+  text-align: right;
+  position: relative;
+ top: 736px;
+  left: 12px;
+}
+
+.ed
+{
+width: 300;
+  text-align: center;
+  height: 300px;
+  padding: 128px 0px;
+  margin: 0px auto;
+  overflow: auto;
+  background-image: url("ed.png");
+  background-size: 300px 300px;
+  background-repeat: no-repeat;
+  position: relative;
+  top: 161px;
+  font-weight: bold;
+}
+.rs
+{
+  width: 380px;
+  text-align:left;
+  height: 400px;
+  padding: 117px 30px;
+  margin: 0px auto;
+  overflow:auto;
+  background-image: url("c.png");
+  background-size:300px 400px;
+  background-repeat:no-repeat;
+  position: relative;
+  top: 161px;
+  font-weight:bold;
+   
+}
+.cho
+{
+  margin: 0px auto;
+  text-align: left;
+  position: relative;
+  bottom: 20px;
+  left: -80px;
+  width: 100;
+}
+.ed2
+{
+  margin: 0px auto;
+  text-align: left;
+  position: relative;
+  left: 20px;  
+  top: 100px;
+  bottom: 20px;
+  
+  width: 100;
+}
